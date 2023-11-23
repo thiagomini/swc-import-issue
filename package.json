@@ -1,0 +1,12 @@
+{
+  "name": "swc-import-issue",
+  "version": "1.0.0",
+  "description": "A minimum repro to exemplify the build issue with ESM",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago R. V. Martins",
+  "license": "ISC"
+}
